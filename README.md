@@ -1,0 +1,2 @@
+# ZGP
+zeka gelişim projesi 
